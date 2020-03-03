@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1583025457 source:c:\users\carlos\desktop\object oriented programming\date2\src\date2.cpp
+	<iostream>
+	"Date2.h"
+
+1583025456 c:\users\carlos\desktop\object oriented programming\date2\include\date2.h
+	<iostream>
+
+1583027303 source:c:\users\carlos\desktop\object oriented programming\date2\src\time2.cpp
+	"Time2.h"
+
+1583027302 c:\users\carlos\desktop\object oriented programming\date2\include\time2.h
+	<iostream>
+
+1583025545 source:c:\users\carlos\desktop\object oriented programming\date2\main.cpp
+	<iostream>
+	"Date2.h"
+
